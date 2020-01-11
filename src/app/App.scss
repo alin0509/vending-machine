@@ -1,0 +1,9 @@
+.column {
+  flex-grow: 1;
+  margin: 8px;
+  width: 50%;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
