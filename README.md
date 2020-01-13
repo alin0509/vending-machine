@@ -15,9 +15,10 @@ You will also see any lint errors in the console.
 
 ## Server
 Under `/server` folder 
+
 ### `node index.js`
-Runs the server
+Run the server
 
 ## Database
-To create the DB collection you should run the script under `mongodb_createcollection.js` 
+To create the DB collection you should run the script under `mongodb_createcollection.js` <br />
 To populate the DB collection you should run the script under `mongodb_insert.js` 
